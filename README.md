@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://github.com/DavidSaintAnna/DavidSaintAnna/raw/main/assets/2021-10-10-17-45-37.gif" alt="David">
+  </p>
+
+
 <h1 align="center">Hello 👋, I'm David Henri</h1>
 <h3 align="center">A student at AlphaEdtech (2021-2022) class.</h3>
 
