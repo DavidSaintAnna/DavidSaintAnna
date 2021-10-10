@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hello 👋, I'm David Henri</h1>
 <h3 align="center">A student at AlphaEdtech (2021-2022) class.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsaintanna&label=Profile%20views&color=0e75b6&style=flat" alt="davidsaintanna" /> </p>
-
 - 👨‍💻 currently learning **HTML, CSS and JavaScript.**
 
 
