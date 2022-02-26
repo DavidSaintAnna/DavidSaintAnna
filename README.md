@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hello 👋, I'm David SaintAnna</h1>
-<h3 align="center"> "I can't see a damn thing if it ain't guap"</h3>
+<h3 align="center"> "They say, David, you should try Adderal, I can't take Adderal even tho my friends tell me to do so. It's just the way it goes. On the other hand, should I try to k*** myself? Is it worth it? Cuz life is about tears and FUCK I'm tired of my tears."</h3>
 
 - 👨‍💻 currently learning **HTML, CSS and JavaScript.**
 
