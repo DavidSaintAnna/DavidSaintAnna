@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hello 👋, I'm David SaintAnna</h1>
-<h3 align="center">A guy that will eventually leave brazil at all costs no matter what, Asperger is my shit. </h3>
+<h3 align="center">A guy that will eventually leave brazil at all costs no matter what. The people of this country never understood me and honestly I think they never will. Asperger is my shit. </h3>
 
 - 👨‍💻 currently learning **HTML, CSS and JavaScript.**
 
