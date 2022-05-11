@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 <h3 align="center"> "Yeah my teachers never really believed in me (yeah) Never know what day it is, my life is like a vacay
 Throwin' up in bathrooms, guess that's just the price I pay.When I was in school, my teachers didn't believe in me
 Now I'm wearing good designer, yeah it kinda cost a fee
-I'm 21 but I'll live til infinity I'm always in the backseat.
-  <div class="tenor-gif-embed" data-postid="17959933" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/tai-izzy-digimon-shocked-what-happened-gif-17959933">Tai Izzy GIF</a>from <a href="https://tenor.com/search/tai-gifs">Tai GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+I'm 21 but I'll live til infinity I'm always in the backseat.>
 "</h3>
 
 - 👨‍💻 currently learning **HTML, CSS and JavaScript.**
