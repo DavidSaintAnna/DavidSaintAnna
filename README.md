@@ -26,7 +26,6 @@ Throwin' up in bathrooms, guess that's just the price I pay."</h3>
 - 👨‍💻 currently learning **HTML, CSS and JavaScript.**
 
 
-![Alt Text](https://tenor.com/view/tai-izzy-digimon-shocked-what-happened-gif-17959933)
 <img src="/images/output/video1.gif" width="250" height="250"/>" width="40" height="40" />
 
 <h3 align="left">Languages and Tools:</h3>
