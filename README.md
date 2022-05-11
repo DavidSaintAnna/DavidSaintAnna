@@ -20,21 +20,11 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hello 👋, I'm David SaintAnna</h1>
-<h3 align="center"> "As the snow flies<br>
-On a cold and gray Chicago mornin'<br>
-A poor little baby child is born<br>
-In the ghetto (In the ghetto)<br>
-And his mama cries<br>
-'Cause if there's one thing that she don't need<br>
-It's another hungry mouth to feed<br>
-In the ghetto (In the ghetto)<br>
-  People, don't you understand<br>
-A child needs a helping hand<br>
-Or he'll grow to be an angry young man some day<br>
-Take a look at you and me<br>
-Are we too blind to see<br>
-Do we simply turn our heads<br>
-And look the other way?<br>
+<h3 align="center"> "Yeah my teachers never really believed in me (yeah) Never know what day it is, my life is like a vacay
+Throwin' up in bathrooms, guess that's just the price I pay.When I was in school, my teachers didn't believe in me
+Now I'm wearing good designer, yeah it kinda cost a fee
+I'm 21 but I'll live til infinity I'm always in the backseat.
+  <div class="tenor-gif-embed" data-postid="17959933" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/tai-izzy-digimon-shocked-what-happened-gif-17959933">Tai Izzy GIF</a>from <a href="https://tenor.com/search/tai-gifs">Tai GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 "</h3>
 
 - 👨‍💻 currently learning **HTML, CSS and JavaScript.**
