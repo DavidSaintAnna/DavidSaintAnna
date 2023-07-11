@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hello 👋, I'm David SaintAnna</h1>
-<h3 align="center">and I will Never stop Learning!</h3>
+<h3 align="center">and I will never stop learning!</h3>
 
 - 👨‍💻 currently learning **HTML, CSS and JavaScript.**
 
