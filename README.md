@@ -86,6 +86,18 @@ Here are some ideas to get you started:
 </p>
 
 </details>
+<details open style="margin-bottom:10px">
+<summary style="margin-bottom:10px" ><strong>Database</strong></summary>
+<p>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" >
+    <img src="https://storage.subs.noventiq.com/public/images/market_setting/logotype/39422/SQL1.png" alt="SQL Server" title="SQL Server" width="40" height="40"/>
+</a>
+<a href="httpshttps://www.oracle.com/database/" target="_blank" >
+    <img src="https://seeklogo.com/images/O/oracle-database-logo-780BE0C820-seeklogo.com.png" alt="SQL Server" title="Oracle Database" width="60" height="40"/>
+</a>
+
+</p>
+</details>
 </p>
 
 <br />
