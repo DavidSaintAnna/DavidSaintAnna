@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello 👋, I'm David Santana</h1>
 <h3 align="center">and I will never stop learning!</h3>
- <img src="https://komarev.com/ghpvc/?username=DavidSaintAnna" alt="gleisonkz" />
     <a href="https://www.codewars.com/users/DavidSaintAnna" target="_blank" >
-        <img  alt="Code Warrior Profile Badges" title="Code Warrior Profile Badges" src="https://www.codewars.com/users/gleisonkz/badges/micro" />
+        <img  alt="Code Warrior Profile Badges" title="Code Warrior Profile Badges" src="https://www.codewars.com/users/DavidSaintAnna/badges/micro" />
     </a>
  </div>
 
