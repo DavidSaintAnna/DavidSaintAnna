@@ -98,6 +98,10 @@ Here are some ideas to get you started:
 
 </p>
 </details>
+
+<img align="center" alt="David's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSaintAnna&langs_count=5&theme=dark&layout=compact" />
+<br/>
+<img align="center" alt="João Vitor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DavidSaintAnna&show_icons=true&hide_border=true&theme=dark" />
 </p>
 
 <br />
