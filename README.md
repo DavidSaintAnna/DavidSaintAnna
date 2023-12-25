@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h3 align="center">and I will never stop learning!</h3>
      At CodeWars
     <a href="https://www.codewars.com/users/David%20Henrie" target="_blank" >
-        <img  alt="Code Warrior Profile Badges" title="Code Warrior Profile Badges" src="https://www.codewars.com/users/David%20Henrie/badges/micro" />
+          <img src="https://www.codewars.com/users/David%20Henrie/badges/large"/>
     </a>
 
  </div>
