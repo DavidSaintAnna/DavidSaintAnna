@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <a href="https://www.codewars.com/users/David%20Henrie" target="_blank" >
           <img src="https://www.codewars.com/users/David%20Henrie/badges/large"/>
     </a>
-  Meu rank global NO CODEWARS(Algoritmos e Resoluções)
+  My global rank algorithm and resolutions.
 - 👨‍💻 My skills 
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Front-end</strong></summary>
