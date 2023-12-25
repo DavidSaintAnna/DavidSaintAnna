@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hello 👋, I'm David Santana</h1>
 <h3 align="center">and I will never stop learning!</h3>
  </div>
- 
- <img src="https://www.codewars.com/users/David%20Henrie/badges/large"/>
-  MEU RANK NO CODEWARS MUNDO INTEIRO (Algoritmos e Resoluções)
+  <a href="https://www.codewars.com/users/David%20Henrie" target="_blank" >
+          <img src="https://www.codewars.com/users/David%20Henrie/badges/large"/>
+    </a>
+  Meu rank global NO CODEWARS(Algoritmos e Resoluções)
 - 👨‍💻 My skills 
 <details open style="margin-bottom:10px">
 <summary style="margin-bottom:10px" ><strong>Front-end</strong></summary>
