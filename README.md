@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 <h3 align="center">and I will never stop learning!</h3>
      At CodeWars
     <a href="https://www.codewars.com/users/David%20Henrie" target="_blank" >
-          <img src="https://www.codewars.com/users/David%20Henrie/badges/large"/>
+          
     </a>
 
  </div>
+ <img src="https://www.codewars.com/users/David%20Henrie/badges/large"/>
 
 - 👨‍💻 My skills 
 <details open style="margin-bottom:10px">
