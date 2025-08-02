@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hello 👋, I'm David Santana</h1>
 <h3 align="center">and I will never stop learning!</h3>
  </div>
-ns.
   <a href="https://www.codewars.com/users/David%20Henrie" target="_blank" >
           <img src="https://www.codewars.com/users/David%20Henrie/badges/large"/>
     </a>
